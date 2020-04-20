@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Calorie Counter
+Implements all advanced feature of React to build a Calorie Management System<CMS>, with three possible user types being :
+Authenticated User
+Manager 
+Admin 
+
 ## Available Scripts
 
 In the project directory, you can run:
